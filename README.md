@@ -1,7 +1,7 @@
 # AIML-2025-2025
 # kondapalli devi priyanka
 # Artificial Intelligence And Machine Learning Lab Instruction Sheets
-1. [Lab 01]():Introduction to Python Libraries-Numpy
+1. [Lab 01](https://github.com/kodapallidevi/AIML-2025/blob/main/AIML_A1.pdf):Introduction to Python Libraries-Numpy
 2. [Lab 02]():Introduction to Python Libraries-Numpy
 3. [Lab 03]():Introduction to Python Libraries-Numpy
 4. [Lab 04]():Introduction to Python Libraries-Numpy
